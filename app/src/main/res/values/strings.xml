@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicShopJava</string>
+    <string name="sale_name">Sale -30%</string>
+    <string name="description_shop">This is a music shop</string>
+    <string name="description_name">Your name</string>
+    <string name="description_item">Select Item</string>
+    <string name="description_button">Add to card</string>
+    <string name="chosen_guitar">You are chose this guitar</string>
+    <string name="description_price">Order price</string>
+    <string name="description_quantity">Quantity</string>
+</resources>
